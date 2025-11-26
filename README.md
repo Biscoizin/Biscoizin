@@ -2,8 +2,18 @@
 
 ###
 
+<p align="left">Hello World! I'm Biscoizin, a beginner exploring the magical world of programming! ✨</p>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Biscoizin.Biscoizin&"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.forgecdn.net/avatars/thumbnails/764/965/256/256/638100371746879660_animated.gif"  />
 </div>
 
 ###
@@ -19,13 +29,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Biscoizin/Biscoizin/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Biscoizin/Biscoizin/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Biscoizin">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Biscoizin&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
