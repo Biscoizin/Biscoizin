@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/p6P7tqyV/lv-0-20251126001045.gif"  />
+  <img height="200" src="https://i.imgur.com/JXZRC4y.gif"  />
 </div>
 
 ###
